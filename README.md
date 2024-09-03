@@ -69,5 +69,5 @@ The dataset can be found here : https://www.kaggle.com/datasets/paultimothymoone
 
 ## Model Performance ##
 
-![output](https://github.com/hk633839/Pneumonia_detection/assets/97289725/4343c1cc-c3a4-4b14-af60-7f93a8b0085f)
+![output](output.png)
 
