@@ -59,11 +59,11 @@ Non-trainable params: 2624 (10.25 KB)
 
 ### Noraml Chest X-ray: ###
 
-![IM-0117-0001](https://github.com/hk633839/Pneumonia_detection/assets/97289725/7a598702-8305-4d27-b2cb-b779ef2063c6)
+![IM-0117-0001](normal.jpeg)
 
 ### Pneumonia Chest X-ray: ###
 
-![person2_bacteria_4](https://github.com/hk633839/Pneumonia_detection/assets/97289725/821ba845-39ed-4680-91b5-b2ad8dbbd653)
+![person2_bacteria_4](pneumonia.jpeg)
 
 The dataset can be found here : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
